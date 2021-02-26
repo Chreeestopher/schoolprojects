@@ -19,9 +19,6 @@ WindowFrame->Normal*)
 (* Beginning of Notebook Content *)
 Notebook[{
 Cell["\<\
-WILLIAM ORTIZ
-CHRISTOPHER LEE
-ELI RICKER
 
 In this project, we explored how partial derivatives fit curves to a set of \
 lines through calculus and graphing. Our project was divided into two main \
